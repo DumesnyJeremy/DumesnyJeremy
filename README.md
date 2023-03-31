@@ -6,6 +6,6 @@
 [![Learning](https://skillicons.dev/icons?i=flutter,js,nodejs,vuejs)](https://skillicons.dev)
 ### 🔧 Tools I work with   
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea,linux,ps,figma,gitlab)](https://skillicons.dev)
-### 📫 How to reach me: ...
-### ⚡ Passions: ...
--->
+
+### 📫 How to reach me
+[![My Skills](https://skillicons.dev/icons?i=linkedin,instagram,discord)](https://skillicons.dev)
