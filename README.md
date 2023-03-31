@@ -1,7 +1,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DumesnyJeremy&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⚡ I've already used
-[![Learning](https://skillicons.dev/icons?i=c,cpp,go,python)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=c)]
+[![Learning](https://skillicons.dev/icons?i=cpp)]
+[![Learning](https://skillicons.dev/icons?i=go)]
+[![Learning](https://skillicons.dev/icons?i=python)]
 ### 💾 I’m currently learning   
 [![Learning](https://skillicons.dev/icons?i=flutter,js,nodejs,vuejs)](https://skillicons.dev)
 ### 🔧 Tools I work with   
