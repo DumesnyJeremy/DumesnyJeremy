@@ -8,6 +8,6 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea,linux,ps,figma,gitlab)](https://skillicons.dev)
 
 ### 📫 How to reach me
-[![My Skills](https://skillicons.dev/icons?i=linkedin,instagram,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-dumesny/)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-dumesny/)
