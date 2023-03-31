@@ -10,4 +10,4 @@
 ### 📫 How to reach me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-dumesny/)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dms_jeremy/)
-[![My Skills](https://skillicons.dev/icons?i=discord)](discordapp.com/users/Lamaaa#2779/)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/Lamaaa#2779/)
