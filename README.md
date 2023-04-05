@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DumesnyJeremy&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyDumesny&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⚡ I've already used
 [![Used](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
